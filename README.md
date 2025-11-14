@@ -1,15 +1,5 @@
 # Agentic AI Chatbot Project
 
-## 📒 Index
-
-- [Project Overview](#-project-overview)  
-- [Tech Stack](#-tech-stack)  
-- [Key Learnings](#-key-learnings)  
-- [Getting Started](#-getting-started)  
-- [Contribution & Support](#-contribution--support)  
-
-***
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Agentic%20AI%20Chatbot-7A00F5?style=for-the-badge&logo=ai" />
   <img src="https://img.shields.io/badge/Made%20By-Akshay%20Sharma-6A0DAD?style=for-the-badge" />
@@ -20,6 +10,16 @@
   <img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/UI-Streamlit-FF0050?style=for-the-badge&logo=streamlit" />
 </p>
+
+## 📒 Index
+
+- [Project Overview](#-project-overview)  
+- [Tech Stack](#-tech-stack)  
+- [Key Learnings](#-key-learnings)  
+- [Getting Started](#-getting-started)  
+- [Contribution & Support](#-contribution--support)  
+
+***
 
 ## 🚀 Project Overview
 
