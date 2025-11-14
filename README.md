@@ -10,6 +10,17 @@
 
 ***
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agentic%20AI%20Chatbot-7A00F5?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Made%20By-Akshay%20Sharma-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-LangGraph-5B0AFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Groq-FF4A1B?style=for-the-badge&logo=groq" />
+  <img src="https://img.shields.io/badge/Tools-LangChain-1F77D0?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Web%20Search-Tavily-0085FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/UI-Streamlit-FF0050?style=for-the-badge&logo=streamlit" />
+</p>
+
 ## 🚀 Project Overview
 
 This project features an end-to-end **Agentic AI Chatbot** with three key modules:
